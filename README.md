@@ -1,7 +1,7 @@
 # Add Sender Email Address to Outlook
- Adds the email address of who sent you an email into your Outlook Web client (Inbox, Deleted, Archive, Junk folders).
+Adds the email address of who sent you an email into your Outlook Web client (Inbox, Deleted, Archive, Junk folders).
 
-<br>
+<img src="https://i.imgur.com/o7KMzkH.png" height=500px></img>
 
 <h2>Chromium - Download extension manually:</h2>
 <ul>
