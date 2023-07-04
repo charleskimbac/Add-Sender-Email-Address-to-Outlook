@@ -3,6 +3,9 @@ Adds the email address of who sent you an email into your Outlook Web client (In
 
 <img src="https://i.imgur.com/o7KMzkH.png" height=500px></img>
 
+<h2>Get the Extension on the Chrome Web Store:</h2>
+https://chrome.google.com/webstore/detail/add-sender-email-address/oljcbbijpmfoioljjdnkjfnhdalbmmmk
+
 <h2>Chromium - Download extension manually:</h2>
 <ul>
   <li>Download the latest release zip file</li>
