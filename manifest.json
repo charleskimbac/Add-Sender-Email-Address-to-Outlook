@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Add Sender Email Address to Outlook",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "content_scripts": [
     {
       "matches": ["https://outlook.office.com/mail/*", "https://outlook.live.com/*"],
